@@ -6,7 +6,7 @@ The dataset can be downloaded from the link shared in the "link to the dataset" 
 ### To run the file
 
 ## Clone the reposiory
-https://github.com/Diksha1312/IMDB-Sentiment-Analysis
+[https://github.com/Diksha1312/IMDB-Sentiment-Analysis](https://github.com/Diksha1312/IMDB-Sentiment-Analysis.git)
 
 # Step 1 : Create conda environment and activate the environment
 ```bash
